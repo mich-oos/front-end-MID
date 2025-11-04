@@ -1,7 +1,7 @@
-import Gen1 from './Gen1';
-import Gen2 from './Gen2';
-import Gen3 from './Gen3';
-import Gen4 from './Gen4';
+import Gen1 from './gen1';
+import Gen2 from './gen2';
+import Gen3 from './gen3';
+import Gen4 from './gen4';
 
 const Generations = ({ text }) => {
   return (
