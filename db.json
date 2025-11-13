@@ -9,20 +9,24 @@
       "birthdate": "28 Februari 2005",
       "address": "Talawaan, kec. Talawaan, keb. Minahasa Utara",
       "gender": "Perempuan",
+      "agama": "Kristen Protestan",
       "hobby": "Mendengarkan Musik dan Menonton Film"
     }
   ],
   "education": [
     {
       "picture": "logo-unklab.jpeg",
-      "university": "Universitas Indonesia",
+      "university": "Universitas Klabat",
+      "faculty": "Computer Science",
       "major": "Information System",
       "NIM": 105012310072
     }
   ],
   "contacts": {
     "email": "anggreinysondakh@gmail.com",
-    "phone": "0858-2782-8375"
+    "phone": "0858-2782-8375",
+    "github": "https://github.com/mich-oos",
+    "Instagram": "@anggreiny.anggie"
   },
   "funfact": [
     {
@@ -32,6 +36,10 @@
     {
       "id": 2,
       "text": "Saya selalu mendengarkan musik ketika sedang mengerjakan tugas"
+    },
+    {
+      "id": 3,
+      "text": "Saya suka makan apapun tentang mie"
     }
   ]
 }
